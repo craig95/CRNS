@@ -1,0 +1,25 @@
+body {
+    background-size: cover;
+    font-family: sans-serif;
+    color: #ffffff;
+    background-repeat: no-repeat;
+    min-height: 100%;
+    height: 100%;
+}
+
+#time {
+    width: 310px;
+    font-size: 80px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#back_btn {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+#city_name {
+    display: none;
+}
